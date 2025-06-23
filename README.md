@@ -1,3 +1,5 @@
+Obs: o Jupyter "TP4_Prova_de_Conceito.ipynb" é o projeto que rodei até o fim, mas nele eu usei apenas uma parte da base de dados e pus uma única época para validar o projeto, o jupyter "TP4_com_ganho.ipynb" é o código com outputs de ganhos visíveis, mas demoraria muito para rodar, então não rodei ele todo, caso deseje rodar é só dar play, mas vai demorar aproximadamente 2 horas.
+
 # Análise Quantitativa do Trade-off entre Especialização e Generalização em LLMs
 
 ## 1. Visão Geral do Projeto
